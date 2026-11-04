@@ -11,7 +11,7 @@ Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e 
 - **Control de desgaste de revestimientos:** medición milímetro a milímetro, transmisor autónomo 24/7, predicción de cambio y alertas push.
 - **Seguridad y monitoreo de flotas de camiones:** sensores de presión hidráulica, peso en carga, inclinación y velocidad, GPS y cámaras IP, con panel SaaS en línea.
 - **Almacenamiento de líquidos y control de fugas:** monitoreo 24/7 de tanques, alertas de desabastecimiento y IA para ahorro energético.
-- **Control de tonelaje en chancado:** estación de pesaje N6X con celdas de carga, sensor de velocidad N60 e integrador de pesaje para calcular el flujo en tiempo real.
+- **Control de tonelaje en chancado:** estación de pesaje N6X con celdas de carga, sensor de velocidad N60 e integrador de pesaje para calcular el flujo y producion por tonelaje en tiempo real.
 
 ## Proyectos de software
 - **Licitaciones con agentes de IA:** plataforma de gestión inteligente de licitaciones públicas en Chile (PHP, MySQL, React).
