@@ -19,7 +19,6 @@ Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e 
 - **DataHub:** plataforma de datos y análisis comercial (.NET).
 - **Mapa comercial:** análisis de información comercial sobre mapas, con foco en fiscalización e inversión inteligente.
 - **Inventario municipal web:** activos fijos, bodega, kardex, bajas, depreciación e inventario físico para municipalidades (PHP 8, React, TypeScript).
-- **Kardex Tauro:** software de kardex e inventario de código abierto, publicado en Microsoft Store (C#/.NET).
 - **Traslados Premium:** app de traslado premium de pasajeros (Node.js, TypeScript, PostgreSQL).
 - **SecureChat:** chat 1:1 con cifrado de extremo a extremo, notificaciones push y mensajes que se autodestruyen (móvil y escritorio).
 - **WA-CRM:** CRM con WhatsApp.
