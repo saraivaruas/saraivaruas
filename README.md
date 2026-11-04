@@ -35,6 +35,13 @@ Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e 
 - **[elegibilidad-fondos](https://github.com/saraivaruas/elegibilidad-fondos):** motor determinista de elegibilidad para 29 programas de fomento en Chile.
 - **[sentinel-hids](https://github.com/saraivaruas/sentinel-hids):** detector de intrusiones para Linux, en Python sin dependencias.
 
+## Paquetes en NuGet
+- **[DteChile](https://www.nuget.org/packages/DteChile):** genera, timbra, firma y envía DTE al SII de Chile (.NET, sin dependencias).
+- **[MercadoPublico](https://www.nuget.org/packages/MercadoPublico):** cliente de la API de Mercado Público (ChileCompra) para .NET.
+
+Perfil completo: [nuget.org/profiles/jorgesaraivaruas](https://www.nuget.org/profiles/jorgesaraivaruas)
+
 ## Contacto
 - Web: [inge-innova.com](https://inge-innova.com)
+- NuGet: [jorgesaraivaruas](https://www.nuget.org/profiles/jorgesaraivaruas)
 - Correo: jorge.saraiva@inge-innova.com
