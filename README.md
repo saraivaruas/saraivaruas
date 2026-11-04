@@ -2,7 +2,7 @@
 
 **Software & Electronic Engineer · Sensores inteligentes, agentes de IA y sistemas web · Chile**
 
-Stack: PHP · TypeScript · React · Python · Rust · C# · Oracle · MySQL
+Stack: PHP · TypeScript · React · Node.js · Python · Rust · C# / .NET · Oracle · MySQL · PostgreSQL
 
 ## Lo que hago
 Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e inteligencia artificial**. En [Inge Innova](https://inge-innova.com) diseño soluciones completas de **sensor + transmisor + aplicación SaaS** para industria y minería, y desarrollo software a medida para empresas chilenas.
@@ -13,10 +13,21 @@ Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e 
 - **Almacenamiento de líquidos y control de fugas:** monitoreo 24/7 de tanques, alertas de desabastecimiento y IA para ahorro energético.
 - **Control de tonelaje en chancado:** estación de pesaje N6X con celdas de carga, sensor de velocidad N60 e integrador de pesaje para calcular el flujo en tiempo real.
 
-### Software y automatización
-- **Sistemas web a medida:** plataformas de datos y análisis comercial, gestión de inventario, licitaciones públicas y facturación electrónica.
-- **IA aplicada y agentes:** automatización de procesos con modelos de lenguaje.
-- **Software libre para Chile:** librerías y herramientas con licencia MIT.
+## Proyectos de software
+- **Licitaciones con agentes de IA:** plataforma de gestión inteligente de licitaciones públicas en Chile (PHP, MySQL, React).
+- **Hub BI:** plataforma de informes tipo Power BI (ASP.NET Core 8, React, Apache ECharts, MySQL).
+- **DataHub:** plataforma de datos y análisis comercial (.NET).
+- **Mapa comercial:** análisis de información comercial sobre mapas, con foco en fiscalización e inversión inteligente.
+- **Inventario municipal web:** activos fijos, bodega, kardex, bajas, depreciación e inventario físico para municipalidades (PHP 8, React, TypeScript).
+- **Kardex Tauro:** software de kardex e inventario de código abierto, publicado en Microsoft Store (C#/.NET).
+- **Traslados Premium:** app de traslado premium de pasajeros (Node.js, TypeScript, PostgreSQL).
+- **SecureChat:** chat 1:1 con cifrado de extremo a extremo, notificaciones push y mensajes que se autodestruyen (móvil y escritorio).
+- **WA-CRM:** CRM con WhatsApp.
+- **Servidor de licencias:** control de licencias para mis productos.
+- **MediPocket:** catálogo de medicamentos por familias con ficha e imagen, para salud y público general (PHP, MySQL).
+- **Programa de hormigón:** plataforma web de gestión para producción de hormigón.
+- **Plataformas de turismo:** sitios y CRM para alojamiento y experiencias turísticas.
+- **Separador musical:** separa una canción por instrumento y la transcribe a MIDI y partitura (Python).
 
 ## Proyectos open source
 - **[dte-chile](https://github.com/saraivaruas/dte-chile):** facturación electrónica al SII (PHP y C#/.NET), con versiones [PHP](https://github.com/saraivaruas/dte-chile-php) y [.NET](https://github.com/saraivaruas/dte-chile-dotnet).
