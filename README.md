@@ -13,6 +13,11 @@ Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e 
 - **Almacenamiento de líquidos y control de fugas:** monitoreo 24/7 de tanques, alertas de desabastecimiento y IA para ahorro energético.
 - **Control de tonelaje en chancado:** estación de pesaje N6X con celdas de carga, sensor de velocidad N60 e integrador de pesaje para calcular el flujo en tiempo real.
 
+### Común a todos los sensores
+- **Comunicación en terreno:** transmisión por radio a **433 MHz**, con enlace desde la faena hasta la puerta de enlace (gateway) de hasta **32 km en línea de vista**.
+- **Integración con sala de control:** protocolo **Modbus** para conectar los datos a SCADA y sistemas de control de la planta, y gráficos en tiempo real en la plataforma SaaS.
+- **Predicción de mantenibilidad:** modelos de **Random Forest** y **regresión lineal**, junto con **agentes de IA**, para anticipar fallas y programar cambios y mantenciones.
+
 ## Plataformas web en producción
 - **[PROJEX](https://projects.inge-innova.com):** gestión de proyectos para empresas de servicios: clientes, cotizaciones, proyectos, facturación electrónica al SII, horas y calendario, con portal de cliente y asistente de IA.
 - **[LICITEX](https://licitaciones.inge-innova.com):** gestión inteligente de licitaciones públicas en Chile, postulaciones, logisticas y busquedas de proveedores automaticas con agentes de IA.
