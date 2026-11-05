@@ -15,13 +15,13 @@ Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e 
 
 ## Plataformas web en producción
 - **[PROJEX](https://projects.inge-innova.com):** gestión de proyectos para empresas de servicios: clientes, cotizaciones, proyectos, facturación electrónica al SII, horas y calendario, con portal de cliente y asistente de IA.
-- **[Licitaciones](https://licitaciones.inge-innova.com):** gestión inteligente de licitaciones públicas en Chile, con agentes de IA.
-- **[DataHub](https://hub-data.inge-innova.com):** plataforma de datos y análisis comercial (acceso con cuenta).
-- **[Inventario municipal](https://inventario.inge-innova.com):** activos fijos, bodega, kardex, bajas, depreciación e inventario físico para municipalidades.
-- **[Traslados Premium](https://trasladopremium.cl):** reserva de traslados premium de pasajeros.
-- **[SecureChat](https://chat.inge-innova.com):** chat con cifrado de extremo a extremo, notificaciones push y mensajes que se autodestruyen.
-- **[WA-CRM](https://crm.inge-innova.com):** CRM integrado con WhatsApp.
-- **[Kardex Tauro](https://apps.microsoft.com/detail/9n2bgdvr9rqq):** software de kardex e inventario de código abierto, en Microsoft Store.
+- **[LICITEX](https://licitaciones.inge-innova.com):** gestión inteligente de licitaciones públicas en Chile, con agentes de IA.
+- **[DATAHUB](https://hub-data.inge-innova.com):** plataforma de datos y análisis comercial (acceso con cuenta).
+- **[IVENTEX](https://inventario.inge-innova.com):** activos fijos, bodega, kardex, bajas, depreciación e inventario físico para municipalidades.
+- **[TRASLADEX](https://trasladopremium.cl):** reserva de traslados premium de pasajeros.
+- **[SECUREX](https://chat.inge-innova.com):** chat con cifrado de extremo a extremo, notificaciones push y mensajes que se autodestruyen.
+- **[WA-CRMEX](https://crm.inge-innova.com):** CRM integrado con WhatsApp.
+
 
 ## Otros proyectos de software
 - **Hub BI:** informes tipo Power BI (ASP.NET Core 8, React, Apache ECharts, MySQL).
