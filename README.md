@@ -10,6 +10,7 @@ Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e 
 ## Sensores inteligentes (industria y minería)
 Cada solución es **sensor + transmisor + plataforma SaaS** y comparte:
 - **Transmisión en terreno a 433 MHz**, desde la faena hasta la puerta de enlace (gateway), con alcance de hasta **32 km en línea de vista**.
+- **Propiedad intelectual:** todos los sensores y sistemas están **patentados** y protegidos por derechos de propiedad intelectual.
 - **Energía autónoma:** baterías con duración de hasta **3 años**, según la tasa de envío de datos, y el mismo modelo de energía y conectividad en toda la línea de sensores.
 - **Integración con sala de control** por protocolo **Modbus**, con gráficos en tiempo real.
 - **Predicción de mantenibilidad con 99% de precisión** en la fecha de la próxima mantención, usando **Random Forest**, **regresión lineal** y **agentes de IA**.
