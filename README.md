@@ -8,7 +8,7 @@ Stack: PHP · TypeScript · React · Node.js · Python · Rust · C# / .NET · O
 Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e inteligencia artificial**. En [Inge Innova](https://inge-innova.com) diseño soluciones completas de **sensor + transmisor + aplicación SaaS** para industria y minería, y desarrollo software a medida para empresas chilenas.
 
 ## Sensores inteligentes (industria y minería)
-*Las imágenes son referenciales, con datos de ejemplo. Haz clic en una para verla en tamaño completo.*
+*Imágenes de los dispositivos y de la plataforma. Haz clic en una para verla en tamaño completo.*
 
 Cada solución es **sensor + transmisor + plataforma SaaS** y comparte:
 - **Transmisión en terreno a 433 MHz**, desde la faena hasta la puerta de enlace (gateway), con alcance de hasta **32 km en línea de vista**.
