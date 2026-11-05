@@ -10,6 +10,7 @@ Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e 
 ## Sensores inteligentes (industria y minería)
 Cada solución es **sensor + transmisor + plataforma SaaS** y comparte:
 - **Transmisión en terreno a 433 MHz**, desde la faena hasta la puerta de enlace (gateway), con alcance de hasta **32 km en línea de vista**.
+- **Energía autónoma:** baterías con duración de hasta **3 años**, según la tasa de envío de datos, y el mismo modelo de energía y conectividad en toda la línea de sensores.
 - **Integración con sala de control** por protocolo **Modbus**, con gráficos en tiempo real.
 - **Predicción de mantenibilidad con 99% de precisión** en la fecha de la próxima mantención, usando **Random Forest**, **regresión lineal** y **agentes de IA**.
 
@@ -26,6 +27,7 @@ Control de seguridad y monitoreo para flotas de camiones de alto nivel.
 - **Seguridad total con 5 cámaras IP de alta definición (cobertura 360°):** frontal, trasera, dos laterales y una de carga, con transmisión en tiempo real y sincronización a la nube; se ven desde celular, tablet o panel central.
 - **Evidencias y alertas:** log inteligente de notificaciones clasificadas por severidad con alertas push, galería multimedia automática que graba video ante eventos críticos (excesos de velocidad, frenados bruscos) etiquetado con fecha, hora, vehículo y tipo de incidente, y trazabilidad completa de cada viaje.
 - **Gestión de despacho:** ciclos de transporte y eficiencia por vehículo, mapa de rutas activas en tiempo real y estado de viaje (carga, tránsito, descarga y disponible).
+- **Energía y conectividad:** mismo modelo que Smarter Sense Wear, con baterías de hasta 3 años de duración según la tasa de envío.
 - **Conectividad total:** sensores y cámaras envían datos encriptados a un gateway IP que los transmite a la nube, con acceso 24/7 desde móvil, tablet y escritorio.
 - **Instalación completa y acceso al SaaS:** diagnóstico inicial, instalación certificada, activación del SaaS y capacitación con soporte 24/7 durante la vigencia del contrato.
 
