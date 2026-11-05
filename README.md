@@ -8,15 +8,16 @@ Stack: PHP · TypeScript · React · Node.js · Python · Rust · C# / .NET · O
 Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e inteligencia artificial**. En [Inge Innova](https://inge-innova.com) diseño soluciones completas de **sensor + transmisor + aplicación SaaS** para industria y minería, y desarrollo software a medida para empresas chilenas.
 
 ## Sensores inteligentes (industria y minería)
-Todas las soluciones incluyen:
-- **Transmisión en terreno a 433 MHz:** desde la faena hasta la puerta de enlace (gateway), con alcance de hasta **32 km en línea de vista**.
-- **Integración con sala de control:** protocolo **Modbus** y gráficos en tiempo real en la plataforma SaaS.
-- **Predicción de mantenibilidad:** **Random Forest**, **regresión lineal** y **agentes de IA** para anticipar fallas y programar mantenciones.
+Cada solución es **sensor + transmisor + plataforma SaaS** y comparte:
+- **Transmisión en terreno a 433 MHz**, desde la faena hasta la puerta de enlace (gateway), con alcance de hasta **32 km en línea de vista**.
+- **Integración con sala de control** por protocolo **Modbus**, con gráficos en tiempo real.
+- **Predicción de mantenibilidad** con **Random Forest**, **regresión lineal** y **agentes de IA**.
 
-- **Control de desgaste de revestimientos:** medición milímetro a milímetro, transmisor autónomo 24/7, predicción de cambio y alertas push.
-- **Seguridad y monitoreo de flotas de camiones:** sensores de presión hidráulica, peso en carga, inclinación y velocidad, GPS y cámaras IP, con panel SaaS en línea.
-- **Almacenamiento de líquidos y control de fugas:** monitoreo 24/7 de tanques, alertas de desabastecimiento y IA para ahorro energético.
-- **Control de tonelaje en chancado:** estación de pesaje N6X con celdas de carga, sensor de velocidad N60 e integrador de pesaje para calcular el flujo en tiempo real.
+Soluciones:
+- **Control de desgaste de revestimientos:** medición milímetro a milímetro con transmisor autónomo 24/7; los modelos predicen cuándo cambiar el revestimiento y envían alertas push.
+- **Seguridad y monitoreo de flotas de camiones:** sensores de presión hidráulica, peso en carga, inclinación y velocidad, GPS y cámaras IP; anticipan fallas y entregan evidencia y alertas en el panel SaaS.
+- **Almacenamiento de líquidos y control de fugas:** monitoreo 24/7 de tanques con gráficos de nivel, alertas de desabastecimiento y emergencias, y IA para ahorro energético.
+- **Control de tonelaje en chancado:** estación de pesaje N6X con celdas de carga, sensor de velocidad N60 e integrador de pesaje; calcula el flujo en tiempo real y controla el variador de frecuencia (VFD) desde la sala de control.
 
 ## Plataformas web en producción
 - **[PROJEX](https://projects.inge-innova.com):** gestión de proyectos para empresas de servicios: clientes, cotizaciones, proyectos, facturación electrónica al SII, horas y calendario, con portal de cliente y asistente de IA.
