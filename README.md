@@ -11,10 +11,10 @@ Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e 
 Cada solución es **sensor + transmisor + plataforma SaaS** y comparte:
 - **Transmisión en terreno a 433 MHz**, desde la faena hasta la puerta de enlace (gateway), con alcance de hasta **32 km en línea de vista**.
 - **Integración con sala de control** por protocolo **Modbus**, con gráficos en tiempo real.
-- **Predicción de mantenibilidad** con **Random Forest**, **regresión lineal** y **agentes de IA**.
+- **Predicción de mantenibilidad con 98% de precisión**, usando **Random Forest**, **regresión lineal** y **agentes de IA**.
 
 Soluciones:
-- **Control de desgaste de revestimientos:** medición milímetro a milímetro con transmisor autónomo 24/7; los modelos predicen cuándo cambiar el revestimiento y envían alertas push.
+- **Control de desgaste de revestimientos:** medición en **milímetros** (mm a mm) con transmisor autónomo 24/7; los modelos predicen cuándo cambiar el revestimiento y envían alertas push.
 - **Seguridad y monitoreo de flotas de camiones:** sensores de presión hidráulica, peso en carga, inclinación y velocidad, GPS y cámaras IP; anticipan fallas y entregan evidencia y alertas en el panel SaaS.
 - **Almacenamiento de líquidos y control de fugas:** monitoreo 24/7 de tanques con gráficos de nivel, alertas de desabastecimiento y emergencias, y IA para ahorro energético.
 - **Control de tonelaje en chancado:** estación de pesaje N6X con celdas de carga, sensor de velocidad N60 e integrador de pesaje; calcula el flujo en tiempo real y controla el variador de frecuencia (VFD) desde la sala de control.
