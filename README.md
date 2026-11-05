@@ -14,6 +14,7 @@ Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e 
 - **Control de tonelaje en chancado:** estación de pesaje N6X con celdas de carga, sensor de velocidad N60 e integrador de pesaje para calcular el flujo y producion por tonelaje en tiempo real.
 
 ## Proyectos de software
+- **[PROJEX](https://projects.inge-innova.com):** software SaaS de gestión para empresas de servicios en Chile: clientes, cotizaciones, proyectos, facturación electrónica al SII, horas, recursos y calendario, con portal para que el cliente apruebe cotizaciones y un asistente de IA (PHP, React, TypeScript, MySQL; también app de escritorio en Python).
 - **Licitaciones con agentes de IA:** plataforma de gestión inteligente de licitaciones públicas en Chile (PHP, MySQL, React).
 - **Hub BI:** plataforma de informes tipo Power BI (ASP.NET Core 8, React, Apache ECharts, MySQL).
 - **DataHub:** plataforma de datos y análisis comercial (.NET).
