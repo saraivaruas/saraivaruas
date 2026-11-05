@@ -8,15 +8,15 @@ Stack: PHP · TypeScript · React · Node.js · Python · Rust · C# / .NET · O
 Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e inteligencia artificial**. En [Inge Innova](https://inge-innova.com) diseño soluciones completas de **sensor + transmisor + aplicación SaaS** para industria y minería, y desarrollo software a medida para empresas chilenas.
 
 ## Sensores inteligentes (industria y minería)
+Todas las soluciones incluyen:
+- **Transmisión en terreno a 433 MHz:** desde la faena hasta la puerta de enlace (gateway), con alcance de hasta **32 km en línea de vista**.
+- **Integración con sala de control:** protocolo **Modbus** y gráficos en tiempo real en la plataforma SaaS.
+- **Predicción de mantenibilidad:** **Random Forest**, **regresión lineal** y **agentes de IA** para anticipar fallas y programar mantenciones.
+
 - **Control de desgaste de revestimientos:** medición milímetro a milímetro, transmisor autónomo 24/7, predicción de cambio y alertas push.
 - **Seguridad y monitoreo de flotas de camiones:** sensores de presión hidráulica, peso en carga, inclinación y velocidad, GPS y cámaras IP, con panel SaaS en línea.
 - **Almacenamiento de líquidos y control de fugas:** monitoreo 24/7 de tanques, alertas de desabastecimiento y IA para ahorro energético.
 - **Control de tonelaje en chancado:** estación de pesaje N6X con celdas de carga, sensor de velocidad N60 e integrador de pesaje para calcular el flujo en tiempo real.
-
-### Común a todos los sensores
-- **Comunicación en terreno:** transmisión por radio a **433 MHz**, con enlace desde la faena hasta la puerta de enlace (gateway) de hasta **32 km en línea de vista**.
-- **Integración con sala de control:** protocolo **Modbus** para conectar los datos a SCADA y sistemas de control de la planta, y gráficos en tiempo real en la plataforma SaaS.
-- **Predicción de mantenibilidad:** modelos de **Random Forest** y **regresión lineal**, junto con **agentes de IA**, para anticipar fallas y programar cambios y mantenciones.
 
 ## Plataformas web en producción
 - **[PROJEX](https://projects.inge-innova.com):** gestión de proyectos para empresas de servicios: clientes, cotizaciones, proyectos, facturación electrónica al SII, horas y calendario, con portal de cliente y asistente de IA.
