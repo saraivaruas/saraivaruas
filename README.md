@@ -102,6 +102,15 @@ Sensores para el almacenamiento de líquidos, el control de fugas y las emergenc
 - **[DteChile](https://www.nuget.org/packages/DteChile):** genera, timbra, firma y envía DTE al SII de Chile (.NET, sin dependencias).
 - **[MercadoPublico](https://www.nuget.org/packages/MercadoPublico):** cliente de la API de Mercado Público (ChileCompra) para .NET.
 
+## Asesoría y servicios
+Trabajo con empresas e instituciones en Chile a través de [Inge Innova](https://inge-innova.com), con esta metodología: **diseño y desarrollo**, **implementación y capacitación**, **gestión y mantenimiento**, y **auditoría y diagnóstico**.
+- **Ciberseguridad:** auditoría de red y sistemas, hardening de servidores Linux, detección de intrusiones y monitoreo de integridad.
+- **Sensores inteligentes a medida:** diseño de sensor, transmisor y plataforma SaaS, con instalación certificada, capacitación y soporte durante la vigencia del contrato.
+- **Software a medida:** plataformas web, integraciones con el SII y Mercado Público, y paneles de datos.
+- **IA aplicada:** agentes de IA y modelos de predicción de mantenibilidad.
+
+¿Tienes un proyecto o un problema por resolver? Escríbeme a jorge.saraiva@inge-innova.com o visita [inge-innova.com](https://inge-innova.com).
+
 ## Contacto
 - Web: [inge-innova.com](https://inge-innova.com)
 - NuGet: [jorgesaraivaruas](https://www.nuget.org/profiles/jorgesaraivaruas)
