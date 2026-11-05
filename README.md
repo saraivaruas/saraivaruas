@@ -15,7 +15,7 @@ Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e 
 
 ## Plataformas web en producción
 - **[PROJEX](https://projects.inge-innova.com):** gestión de proyectos para empresas de servicios: clientes, cotizaciones, proyectos, facturación electrónica al SII, horas y calendario, con portal de cliente y asistente de IA.
-- **[LICITEX](https://licitaciones.inge-innova.com):** gestión inteligente de licitaciones públicas en Chile, con agentes de IA.
+- **[LICITEX](https://licitaciones.inge-innova.com):** gestión inteligente de licitaciones públicas en Chile, postulaciones, logisticas y busquedas de proveedores automaticas con agentes de IA.
 - **[DATAHUB](https://hub-data.inge-innova.com):** plataforma de datos y análisis comercial (acceso con cuenta).
 - **[INVENTEX](https://inventario.inge-innova.com):** activos fijos, bodega, kardex, bajas, depreciación e inventario físico para municipalidades.
 - **[TRASLADEX](https://trasladopremium.cl):** reserva de traslados premium de pasajeros.
