@@ -1,6 +1,6 @@
 # Jorge Luis Saraiva Ruas
 
-**Software & Electronic Engineer · Sensores inteligentes, agentes de IA y sistemas web · Chile**
+**Software & Electronic Engineer · Sensores inteligentes, agentes de IA, ciberseguridad y sistemas web · Chile**
 
 Stack: PHP · TypeScript · React · Node.js · Python · Rust · C# / .NET · Oracle · MySQL · PostgreSQL
 
@@ -67,6 +67,11 @@ Sensores para el almacenamiento de líquidos, el control de fugas y las emergenc
 |   |   |   |
 |:-:|:-:|:-:|
 | <a href="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/liquidos-normal.png"><img src="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/liquidos-normal.png" width="250" alt="Panel de tanques en estado normal"></a><br><sub>Tanques: estado normal</sub> | <a href="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/liquidos-alerta.png"><img src="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/liquidos-alerta.png" width="250" alt="Panel de tanques con alerta crítica"></a><br><sub>Tanques: alerta crítica</sub> |   |
+
+## Ciberseguridad
+- **[Sentinel HIDS](https://github.com/saraivaruas/sentinel-hids):** detector de intrusiones para Linux, de código abierto: integridad de archivos, webshells, fuerza bruta, escaneo de puertos, honeypots y panel gráfico, en Python sin dependencias.
+- **Auditoría de red y sistemas:** revisión de puertos, servicios, firewall y accesos SSH.
+- **Hardening de servidores Linux** y monitoreo de integridad.
 
 ## Plataformas web en producción
 - **[PROJEX](https://projects.inge-innova.com):** gestión de proyectos para empresas de servicios: clientes, cotizaciones, proyectos, facturación electrónica al SII, horas y calendario, con portal de cliente y asistente de IA.
