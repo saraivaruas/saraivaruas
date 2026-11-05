@@ -19,6 +19,27 @@ Soluciones:
 - **Almacenamiento de líquidos y control de fugas:** monitoreo 24/7 de tanques con gráficos de nivel, alertas de desabastecimiento y emergencias, y IA para ahorro energético.
 - **Control de tonelaje en chancado:** estación de pesaje N6X con celdas de carga, sensor de velocidad N60 e integrador de pesaje; calcula el flujo en tiempo real y controla el variador de frecuencia (VFD) desde la sala de control.
 
+### Imágenes de las soluciones
+*Imágenes referenciales de la plataforma, con datos de ejemplo.*
+
+**Control de desgaste de revestimientos**
+
+<img src="imagenes/desgaste-revestimientos.png" width="640" alt="Panel de desgaste de revestimientos: barras por sensor en milímetros, proyección y gráfico de tendencia">
+
+**Almacenamiento de líquidos y control de fugas**
+
+<img src="imagenes/liquidos-fugas.png" width="640" alt="Panel de monitoreo de tanques con estado normal y alerta crítica">
+
+**Control de tonelaje en chancado**
+
+<img src="imagenes/chancado-panel.png" width="640" alt="Panel SaaS de control de tonelaje con variador de frecuencia y proyección">
+
+<img src="imagenes/estacion-pesaje-n6x.png" width="640" alt="Estación de pesaje N6X con celdas de carga">
+
+| Integrador de pesaje (serie 6101) | Sensor de velocidad N60 |
+|---|---|
+| <img src="imagenes/integrador-pesaje.png" width="260" alt="Integrador de pesaje"> | <img src="imagenes/sensor-velocidad-n60.png" width="420" alt="Sensor de velocidad N60"> |
+
 ## Plataformas web en producción
 - **[PROJEX](https://projects.inge-innova.com):** gestión de proyectos para empresas de servicios: clientes, cotizaciones, proyectos, facturación electrónica al SII, horas y calendario, con portal de cliente y asistente de IA.
 - **[LICITEX](https://licitaciones.inge-innova.com):** gestión inteligente de licitaciones públicas en Chile, postulaciones, logisticas y busquedas de proveedores automaticas con agentes de IA.
