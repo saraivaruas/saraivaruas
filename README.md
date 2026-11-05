@@ -17,7 +17,7 @@ Combino tres disciplinas: **ingeniería en sistemas, ingeniería electrónica e 
 - **[PROJEX](https://projects.inge-innova.com):** gestión de proyectos para empresas de servicios: clientes, cotizaciones, proyectos, facturación electrónica al SII, horas y calendario, con portal de cliente y asistente de IA.
 - **[LICITEX](https://licitaciones.inge-innova.com):** gestión inteligente de licitaciones públicas en Chile, con agentes de IA.
 - **[DATAHUB](https://hub-data.inge-innova.com):** plataforma de datos y análisis comercial (acceso con cuenta).
-- **[IVENTEX](https://inventario.inge-innova.com):** activos fijos, bodega, kardex, bajas, depreciación e inventario físico para municipalidades.
+- **[INVENTEX](https://inventario.inge-innova.com):** activos fijos, bodega, kardex, bajas, depreciación e inventario físico para municipalidades.
 - **[TRASLADEX](https://trasladopremium.cl):** reserva de traslados premium de pasajeros.
 - **[SECUREX](https://chat.inge-innova.com):** chat con cifrado de extremo a extremo, notificaciones push y mensajes que se autodestruyen.
 - **[WA-CRMEX](https://crm.inge-innova.com):** CRM integrado con WhatsApp.
