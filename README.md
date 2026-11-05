@@ -31,9 +31,15 @@ Control de seguridad y monitoreo para flotas de camiones de alto nivel.
 - **Conectividad total:** sensores y cámaras envían datos encriptados a un gateway IP que los transmite a la nube, con acceso 24/7 desde móvil, tablet y escritorio.
 - **Instalación completa y acceso al SaaS:** diagnóstico inicial, instalación certificada, activación del SaaS y capacitación con soporte 24/7 durante la vigencia del contrato.
 
+### Smarter Pressure: control de tonelaje en chancado (creado en 2023)
+Automatización del control de tonelaje en chancado, con la plataforma SaaS que documenta, monitorea, alerta y protege.
+- **Estación de pesaje N6X:** estructura robusta en acero A36 para las condiciones extremas del área de chancado, con celdas de carga integradas en la viga principal que registran con alta precisión la masa del material sobre los rodillos de transporte.
+- **Sensor de velocidad N60:** monitoreo continuo del desplazamiento de la correa y datos en milisegundos para calcular con exactitud el flujo dinámico, con montaje seguro en puntos de anclaje fijos.
+- **Integrador de pesaje (serie 6101):** es el cerebro del sistema; recibe las señales de las celdas de carga y del sensor de velocidad, calcula el caudal en tiempo real y controla el variador de frecuencia (VFD), con panel de membrana y puerto de comunicaciones para integrarse a la planta.
+- **Plataforma SaaS:** control por meta diaria, producción real y proyección a 6 meses, con evidencias y alertas en línea.
+
 ### Otras soluciones
 - **Almacenamiento de líquidos y control de fugas:** monitoreo 24/7 de tanques con gráficos de nivel, alertas de desabastecimiento y emergencias, e IA para ahorro energético.
-- **Control de tonelaje en chancado:** estación de pesaje N6X con celdas de carga, sensor de velocidad N60 e integrador de pesaje; calcula el flujo en tiempo real y controla el variador de frecuencia (VFD) desde la sala de control.
 
 ### Imágenes de las soluciones
 *Imágenes referenciales con datos de ejemplo. Haz clic para ver en tamaño completo.*
