@@ -20,25 +20,13 @@ Soluciones:
 - **Control de tonelaje en chancado:** estación de pesaje N6X con celdas de carga, sensor de velocidad N60 e integrador de pesaje; calcula el flujo en tiempo real y controla el variador de frecuencia (VFD) desde la sala de control.
 
 ### Imágenes de las soluciones
-*Imágenes referenciales de la plataforma, con datos de ejemplo.*
+*Imágenes referenciales con datos de ejemplo. Haz clic para ver en tamaño completo.*
 
-**Control de desgaste de revestimientos**
-
-<img src="imagenes/desgaste-revestimientos.png" width="640" alt="Panel de desgaste de revestimientos: barras por sensor en milímetros, proyección y gráfico de tendencia">
-
-**Almacenamiento de líquidos y control de fugas**
-
-<img src="imagenes/liquidos-fugas.png" width="640" alt="Panel de monitoreo de tanques con estado normal y alerta crítica">
-
-**Control de tonelaje en chancado**
-
-<img src="imagenes/chancado-panel.png" width="640" alt="Panel SaaS de control de tonelaje con variador de frecuencia y proyección">
-
-<img src="imagenes/estacion-pesaje-n6x.png" width="640" alt="Estación de pesaje N6X con celdas de carga">
-
-| Integrador de pesaje (serie 6101) | Sensor de velocidad N60 |
-|---|---|
-| <img src="imagenes/integrador-pesaje.png" width="260" alt="Integrador de pesaje"> | <img src="imagenes/sensor-velocidad-n60.png" width="420" alt="Sensor de velocidad N60"> |
+|   |   |   |
+|:-:|:-:|:-:|
+| <a href="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/desgaste-arquitectura.png"><img src="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/desgaste-arquitectura.png" width="250" alt="Esquema de faena con sensores, gateway y sala de control"></a><br><sub>Faena, gateway y sala de control</sub> | <a href="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/desgaste-sensores.png"><img src="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/desgaste-sensores.png" width="250" alt="Panel de sensores de desgaste con proyección"></a><br><sub>Desgaste por sensor y proyección</sub> | <a href="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/desgaste-tendencia.png"><img src="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/desgaste-tendencia.png" width="250" alt="Gráfico de tendencia del desgaste de cuatro sensores"></a><br><sub>Tendencia y predicción de cambio</sub> |
+| <a href="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/liquidos-normal.png"><img src="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/liquidos-normal.png" width="250" alt="Panel de tanques en estado normal"></a><br><sub>Tanques: estado normal</sub> | <a href="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/liquidos-alerta.png"><img src="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/liquidos-alerta.png" width="250" alt="Panel de tanques con alerta crítica"></a><br><sub>Tanques: alerta crítica</sub> | <a href="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/chancado-panel.png"><img src="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/chancado-panel.png" width="250" alt="Panel SaaS de control de tonelaje"></a><br><sub>Control de tonelaje en chancado</sub> |
+| <a href="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/estacion-pesaje-n6x.png"><img src="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/estacion-pesaje-n6x.png" width="250" alt="Estación de pesaje N6X"></a><br><sub>Estación de pesaje N6X</sub> | <a href="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/integrador-pesaje.png"><img src="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/integrador-pesaje.png" width="250" alt="Integrador de pesaje serie 6101"></a><br><sub>Integrador de pesaje (serie 6101)</sub> | <a href="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/sensor-velocidad-n60.png"><img src="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/sensor-velocidad-n60.png" width="250" alt="Sensor de velocidad N60"></a><br><sub>Sensor de velocidad N60</sub> |
 
 ## Plataformas web en producción
 - **[PROJEX](https://projects.inge-innova.com):** gestión de proyectos para empresas de servicios: clientes, cotizaciones, proyectos, facturación electrónica al SII, horas y calendario, con portal de cliente y asistente de IA.
