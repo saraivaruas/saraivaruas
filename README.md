@@ -56,8 +56,13 @@ Automatización del control de tonelaje en chancado, con la plataforma SaaS que 
 | <a href="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/chancado-panel.png"><img src="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/chancado-panel.png" width="250" alt="Panel SaaS de control de tonelaje"></a><br><sub>Panel SaaS de tonelaje</sub> | <a href="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/estacion-pesaje-n6x.png"><img src="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/estacion-pesaje-n6x.png" width="250" alt="Estación de pesaje N6X"></a><br><sub>Estación de pesaje N6X</sub> | <a href="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/integrador-pesaje.png"><img src="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/integrador-pesaje.png" width="180" alt="Integrador de pesaje serie 6101"></a><br><sub>Integrador de pesaje (serie 6101)</sub> |
 | <a href="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/sensor-velocidad-n60.png"><img src="https://raw.githubusercontent.com/saraivaruas/saraivaruas/main/imagenes/sensor-velocidad-n60.png" width="250" alt="Sensor de velocidad N60"></a><br><sub>Sensor de velocidad N60</sub> |   |   |
 
-### Otras soluciones
-- **Almacenamiento de líquidos y control de fugas:** monitoreo 24/7 de tanques con gráficos de nivel, alertas de desabastecimiento y emergencias, e IA para ahorro energético.
+### Almacenamiento de líquidos y control de fugas (creado en 2024)
+Sensores para el almacenamiento de líquidos, el control de fugas y las emergencias.
+- **Monitoreo 24/7 de la carga** de tanques de agua y otros líquidos, con gráficos de nivel en tiempo real.
+- **Alertas de emergencia** por desabastecimiento, con aviso crítico cuando la reserva baja de un umbral.
+- **Control de usuarios y usos:** flujo de personas y consumo por sector.
+- **Inteligencia artificial** para el ahorro energético.
+- **Plataforma SaaS** para reportes y análisis, con exportación de informes.
 
 |   |   |   |
 |:-:|:-:|:-:|
